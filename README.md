@@ -1,5 +1,6 @@
 # CardGame
 Card game using HTML, CSS, and JavaScript.
+https://noran612.github.io/CardGame/
 Starting page:
 ![losing photo](./cardgameStart.PNG)
 Choose a card by clicking on it:
